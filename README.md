@@ -21,6 +21,7 @@ _加入敏捷之旅后，我可以做什么，可以参考[贡献指南](./CONTR
 - 重庆
 - 广州
 - 福州
+- 珠海
 
 如果你想在自己所在城市组成敏捷之旅的活动，请开[新的issue](https://github.com/agiletour-china/organizing/issues/new)
 
