@@ -8,9 +8,9 @@ _加入敏捷之旅后，我可以做什么，可以参考[贡献指南](./CONTR
 
 ### 敏捷之旅中国有哪些城市
 敏捷之旅中国已经覆盖如下城市：
-- 北京
+- [北京](https://github.com/agiletour-china/beijing)
 - 上海
-- 杭州
+- [杭州](https://github.com/agiletour-china/hangzhou)
 - 深圳
 - 成都
 - 厦门
