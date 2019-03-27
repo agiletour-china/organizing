@@ -6,10 +6,10 @@
 
 ## 敏捷社区-Why
 
-[敏捷社区-Why](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group1.jpg)
+![敏捷社区-Why](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group1.jpg)
 
-> 汇总人：胡俊
-> 讨论参与者：
+> - 汇总人：胡俊
+> - 讨论参与者：
 
 ### 我们为什么在一起？社区到底有啥用？社区的定位？
 
@@ -42,10 +42,10 @@
 
 ## 敏捷社区-How
 
-[敏捷社区-How](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group2.jpg)
+![敏捷社区-How](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group2.jpg)
 
-> 汇总人：侯伯薇
-> 讨论参与者：
+> - 汇总人：侯伯薇
+> - 讨论参与者：
 
 ### 主要观点：想要更持久地做敏捷之旅活动，需要进行商业化；
 
@@ -69,10 +69,10 @@
 
 ## 敏捷之旅-How
 
-[敏捷之旅-How](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group3.jpg)
+![敏捷之旅-How](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group3.jpg)
 
-> 汇总人：Bob
-> 讨论参与者：
+> - 汇总人：Bob
+> - 讨论参与者：
 
 ### 首先明确（以及拆分）原有问题为如下三个问题：
 
@@ -107,10 +107,10 @@
 
 ## 关于如何驱动社区志愿者、组织者的讨论
 
-[社区志愿者驱动力](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group4.jpg)
+![社区志愿者驱动力](https://github.com/agiletour-china/organizing/blob/master/images/20190323/Group4.jpg)
 
-> 汇总人：王力杰
-> 讨论参与者：
+> - 汇总人：王力杰
+> - 讨论参与者：
 
 ### 原始问题：
 
@@ -138,12 +138,12 @@
 
 ## 2020年驴友会举办城市：**西安**
 
-[投票结果](https://github.com/agiletour-china/organizing/blob/master/images/20190323/2020.jpg)
+![投票结果](https://github.com/agiletour-china/organizing/blob/master/images/20190323/2020.jpg)
 
 ## 合影
 
-[合影](https://github.com/agiletour-china/organizing/blob/master/images/20190323/GroupPhoto.jpg)
+![合影](https://github.com/agiletour-china/organizing/blob/master/images/20190323/GroupPhoto.jpg)
 
 ## 十里琅珰-龙井问茶
 
-[十里琅珰-龙井问茶](https://github.com/agiletour-china/organizing/blob/master/images/20190323/hiking.jpg)
+![十里琅珰-龙井问茶](https://github.com/agiletour-china/organizing/blob/master/images/20190323/hiking.jpg)
