@@ -1,10 +1,11 @@
 # 敏捷之旅中国
 
-加入敏捷社区？来吧，小伙伴们，你找到组织啦！
-
+加入敏捷社区？来吧，小伙伴们，你找到组织啦！  
 _加入敏捷之旅后，我可以做什么，可以参考[贡献指南](./CONTRIBUTING.md)_
 
 ## 敏捷之旅城市站建设
+
+[2019敏捷之旅组织者聚会记录](https://github.com/agiletour-china/organizing/blob/master/conferences/organizers_meeting_20190323.md)
 
 ### 敏捷之旅中国有哪些城市
 敏捷之旅中国已经覆盖如下城市：
